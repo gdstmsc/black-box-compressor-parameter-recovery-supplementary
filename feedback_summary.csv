@@ -1,0 +1,5 @@
+group,model,tasks,step_budget,endpoint_mae,success_at_002,success_at_0005
+1,sobolev,8,4,0.012572343764063229,5,2
+1,ratio_weight,8,4,0.0006835030128381553,8,7
+2,sobolev,8,4,0.023499941425840675,4,2
+2,ratio_weight,8,4,0.0021466014288532348,7,5
